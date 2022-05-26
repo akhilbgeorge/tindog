@@ -183,7 +183,7 @@ p{
 
 @media (max-width:1064px){
 
-    #title{
+    #title .container-fluid{
         text-align: center;
     }
 
